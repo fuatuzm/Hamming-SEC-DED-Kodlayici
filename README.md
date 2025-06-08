@@ -41,5 +41,7 @@ Bu proje, **BLM230 Bilgisayar Mimarisi** dersi kapsamında geliştirilmiş bir *
 
   ![Gui](gui2.png)
 
+## Demo Viedo
+https://www.youtube.com/watch?v=MKnY9phU2dw
 
 
