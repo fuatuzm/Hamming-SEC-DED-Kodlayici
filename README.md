@@ -27,7 +27,7 @@ Bu proje, **BLM230 Bilgisayar Mimarisi** dersi kapsamında geliştirilmiş bir *
   - Açılır–kapanır açıklama paneli
 - Tam ekran modda başlama
 
-##▶️ Kullanım
+▶️ Kullanım
 
 - Uygulama açıldığında ekran tam boy olur.
 - Açılır menüden bit uzunluğu seçin (8 / 16 / 32 bit).
